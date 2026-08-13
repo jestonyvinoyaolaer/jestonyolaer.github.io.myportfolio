@@ -6,8 +6,10 @@
     <title>Jestony Olaer Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
+    <main>
 
 
     <!--=====================================
@@ -50,7 +52,7 @@
         </div>
 
     </section>
-
+</main>
 
     <!--=====================================================
                             FOOTER
